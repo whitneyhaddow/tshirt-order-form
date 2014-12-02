@@ -20,17 +20,14 @@ namespace Lab_1
 {
     public partial class Form1 : Form
     {
-        //declare the arrays
         string[] sizes = { "S", "M", "L", "XL" };
         int countSizes; // how many sizes
         string[] styles = { "Plain Black/White", "Plain Colour", "White w/Black Logo", "Colour w/Black Logo", "Black w/Sliver Logo", "Colour w/Silver Logo" };
         int countStyles; // how many styles
-        decimal[,] prices; // two dimensional array of prices
+        decimal[,] prices; 
 
-        //declare constants
         const decimal TAX_PERCENT = 0.05m;
 
-        //global variables
         decimal unitPrice;
 
        
