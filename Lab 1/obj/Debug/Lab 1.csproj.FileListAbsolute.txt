@@ -1,0 +1,12 @@
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab 1.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab_1.Form1.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab_1.Properties.Resources.resources
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.GenerateResource.Cache
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 1\Labs\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 2\Lab 1\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 2\Lab 1\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+C:\Users\Spencer\Documents\Whitney's Documents\School\C# 2\Lab 1\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
